@@ -235,4 +235,4 @@ struct denselayer* denselayer_vector_last(const struct denselayer_vector* self)
 /**************************************************************************************************
 * denselayer_vector_clear: Tömmer fält innehållande dense-lager.
 **************************************************************************************************/
-extern void (*denselayer_vector_clear)(struct denselayer_vector* self) = &denselayer_vector_delete;
+void (*denselayer_vector_clear)(struct denselayer_vector* self) = &denselayer_vector_delete;

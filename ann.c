@@ -212,7 +212,7 @@ static void ann_backpropagate(struct ann* self, const struct doublevector* refer
 }
 
 /**************************************************************************************************
-* ann_optimize: Minimerar fel för i givet neuralt nätverk genom att justera bias samt vikter.
+* ann_optimize: Minimerar fel i givet neuralt nätverk genom att justera bias samt vikter.
 **************************************************************************************************/
 static void ann_optimize(struct ann* self)
 {
