@@ -1,12 +1,12 @@
-#ifndef DOUBLE2DVECTOR_H_
-#define DOUBLE2DVECTOR_H_
-
 /**************************************************************************************************
 * double2Dvector.h: Implementering av tvådimensionella fält innehållande flyttal via strukten
 *                   double2Dvector samt motsvarande externa funktioner. I praktiken innehåller
 *                   varje tvådimensionellt fält adresser till multipla endimensionella fält,
 *                   implementerat via strukten doublevector, som i sin tur innehåller flyttal.
 **************************************************************************************************/
+
+#ifndef DOUBLE2DVECTOR_H_
+#define DOUBLE2DVECTOR_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

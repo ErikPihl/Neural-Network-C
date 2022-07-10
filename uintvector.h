@@ -1,11 +1,11 @@
-#ifndef UINTVECTOR_H_
-#define UINTVECTOR_H_
-
 /**************************************************************************************************
-* uintvector.h: Implementering av endimensionella fält innehållande osignerade heltal via 
-*               strukten uintvector samt motsvarande externa funktioner. Fälten är dynamiska, 
+* uintvector.h: Implementering av endimensionella fält innehållande osignerade heltal via
+*               strukten uintvector samt motsvarande externa funktioner. Fälten är dynamiska,
 *               vilket innebär att element kan läggas till eller tas bort vid behov.
 **************************************************************************************************/
+
+#ifndef UINTVECTOR_H_
+#define UINTVECTOR_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

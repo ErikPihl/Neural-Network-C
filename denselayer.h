@@ -1,10 +1,10 @@
-#ifndef DENSELAYER_H_
-#define DENSELAYER_H_
-
 /**************************************************************************************************
 * denselayer.h: Innehåller funktionalitet för implementering av dense-lager i neurala nätverk
 *               via strukten denselayer samt motsvarande externa funktioner.
 **************************************************************************************************/
+
+#ifndef DENSELAYER_H_
+#define DENSELAYER_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

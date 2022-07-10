@@ -1,12 +1,12 @@
-#ifndef DENSELAYER_VECTOR_H_
-#define DENSELAYER_VECTOR_H_
-
 /**************************************************************************************************
 * denselayer_vector.h: Innehåller funktionalitet för implementering av multipla dense-lager i
-*                      ett dynamiskt fält, primärt för implementering av multipla dolda lager i 
-*                      ett neuralt nätverk, via strukten denselayer_vector samt motsvarande 
+*                      ett dynamiskt fält, primärt för implementering av multipla dolda lager i
+*                      ett neuralt nätverk, via strukten denselayer_vector samt motsvarande
 *                      externa funktioner.
 **************************************************************************************************/
+
+#ifndef DENSELAYER_VECTOR_H_
+#define DENSELAYER_VECTOR_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

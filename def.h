@@ -1,9 +1,9 @@
-#ifndef DEF_H_
-#define DEF_H_
-
 /**************************************************************************************************
 * def.h: Innehållande inkluderingsdirektiv och definitioner samt används i hela programmet.
 **************************************************************************************************/
+
+#ifndef DEF_H_
+#define DEF_H_
 
 /* Inkluderingsdirektiv: */
 #include <stdio.h>

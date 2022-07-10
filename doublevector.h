@@ -1,11 +1,11 @@
-#ifndef DOUBLEVECTOR_H_
-#define DOUBLEVECTOR_H_
-
 /**************************************************************************************************
 * doublevector.h: Implementering av endimensionella fält innehållande flyttal via strukten
 *                 doublevector samt motsvarande externa funktioner. Fälten är dynamiska, vilket
 *                 innebär att element kan läggas till eller tas bort vid behov.
 **************************************************************************************************/
+
+#ifndef DOUBLEVECTOR_H_
+#define DOUBLEVECTOR_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

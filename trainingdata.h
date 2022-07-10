@@ -1,12 +1,12 @@
-#ifndef TRAININGDATA_H_
-#define TRAININGDATA_H_
-
 /**************************************************************************************************
 * trainingdata.h: Innehåller funktionalitet för inläsning och lagring av träningsdata till
-*                 neurala nätverk. Träningsdatan kan både läsas in från en fil eller via 
+*                 neurala nätverk. Träningsdatan kan både läsas in från en fil eller via
 *                 tilldelning från tvådimensionella fält innehållande flyttal. Ordningen på
 *                 träningsdatan kan också randomiseras, vilket bör göras vid träning.
 **************************************************************************************************/
+
+#ifndef TRAININGDATA_H_
+#define TRAININGDATA_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

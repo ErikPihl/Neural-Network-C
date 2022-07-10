@@ -1,10 +1,10 @@
-#ifndef ANN_H_
-#define ANN_H_
-
 /**************************************************************************************************
 * ann.h: Innehåller funktionalitet för implementering av neurala nätverk innehållande multipla
 *        dense-lager via strukten ann samt motsvarande externa funktioner.
 **************************************************************************************************/
+
+#ifndef ANN_H_
+#define ANN_H_
 
 /* Inkluderingsdirektiv: */
 #include "def.h"

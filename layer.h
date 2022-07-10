@@ -1,11 +1,11 @@
-#ifndef LAYER_H_
-#define LAYER_H_
-
 /**************************************************************************************************
-* layer.h: Samlingsfil för implementering av olika typer av lager i neurala nätverk. 
+* layer.h: Samlingsfil för implementering av olika typer av lager i neurala nätverk.
 *          I detta fall förekommer enbart funktionalitet för dense-lager, men vid utbyggnad
 *          av programmet kan funktionalitet för fler lagertyper läggas till.
 **************************************************************************************************/
+
+#ifndef LAYER_H_
+#define LAYER_H_
 
 /* Inkluderingsdirektiv: */
 #include "denselayer.h"
